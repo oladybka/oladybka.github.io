@@ -2,7 +2,7 @@
 ==========================================
 PROJECT: HR Employee Analytics in SQL
 Dataset: HR Employee Attrition (Kaggle)
-Author: [Twoje imię]
+Author: Aleksandra Dybka
 Description:
 A full SQL analytics project including:
 1. Data model creation
